@@ -1,0 +1,122 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Flag of the European Union has how many stars on it?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "10",
+            "14",
+            "16"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which one of these is not a typical European sword design?",
+        "correct_answer": "Scimitar",
+        "incorrect_answers": [
+            "Falchion",
+            "Ulfberht",
+            "Flamberge"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "correct_answer": "Rock Band",
+        "incorrect_answers": [
+            "Meat Beat Mania",
+            "Guitar Hero Live",
+            "Dance Dance Revolution"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the nickname of the US state of California?",
+        "correct_answer": "Golden State",
+        "incorrect_answers": [
+            "Sunshine State",
+            "Bay State",
+            "Treasure State"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What machine element is located in the center of fidget spinners?",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+            "Axles",
+            "Gears",
+            "Belts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which country, not including Japan, has the most people of japanese decent?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "China",
+            "South Korea",
+            "United States of America"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following is not the host of a program on NPR?",
+        "correct_answer": "Ben Shapiro",
+        "incorrect_answers": [
+            "Terry Gross",
+            "Ira Glass",
+            "Peter Sagal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "correct_answer": "6th",
+        "incorrect_answers": [
+            "2nd",
+            "7th",
+            "4th"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "correct_answer": "D. G. Yuengling and Son, Inc",
+        "incorrect_answers": [
+            "Anheuser Busch",
+            "Boston Beer Company",
+            "Miller Coors"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+            "George Washington",
+            "Abraham Lincoln",
+            "Thomas Jefferson"
+        ]
+    }
+]
